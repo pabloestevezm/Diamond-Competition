@@ -8,8 +8,6 @@ https://www.kaggle.com/c/diamonds-datamad0620/data
 
 
 <img src="Input/diamond.jpeg">
-![Alt text](Input/diamond.jpeg?raw=true "Title")
-
 
 ### 1. Data Cleaning
 
