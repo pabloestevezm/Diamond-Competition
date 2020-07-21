@@ -7,7 +7,7 @@ Diamond database can be found on Kaggle.
 https://www.kaggle.com/c/diamonds-datamad0620/data
 
 
-<img src="INPUT/diamond.jpeg">
+<img src="Input/diamond.jpeg">
 
 ### 1. Data Cleaning
 
